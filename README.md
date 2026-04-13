@@ -1,4 +1,4 @@
-# 💼 Portfólio — Josenilton Landim
+# 💼 Portfólio — Leandro Campelo
 
 Primeira versão do portfólio pessoal desenvolvido como atividade prática do curso de **Tecnologia em Sistemas para Internet** — AUPI, polo de Cristino Castro, Piauí.
 
@@ -137,7 +137,7 @@ Acesse em: `http://localhost:5173`
 
 ## 👤 Autor
 
-**Josenilton Landim**  
+**Leandro Campelo**  
 Estudante de Tecnologia em Sistemas para Internet — AUPI  
-Polo: Cristino Castro, Piauí  
-📧 joseniltonrolim77@gmail.com
+Polo: Lagoa do Sítio, Piauí  
+
