@@ -29,8 +29,7 @@ Página web de portfólio profissional construída com **React + Vite**. Apresen
 
 ## 🗂️ Estrutura de Arquivos
 
-```
-josenilton_portifolio-atv1-main/
+
 ├── index.html              # Entry point do Vite
 ├── vite.config.js          # Configuração do Vite + plugin React
 ├── package.json            # Dependências do projeto
